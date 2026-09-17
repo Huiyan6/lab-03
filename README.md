@@ -9,7 +9,7 @@
 
 https://ualberta-cmput301.github.io/labs/slides/2026-Lab-3-Slides.pdf 
 http://ualberta-cmput301.github.io/labs/slides/2026-Lab-3-instructions.pdf 
-https://ualberta-cmput301.github.io/labs/lab3_inst.html
+https://ualberta-cmput301.github.io/labs/lab3_inst.html 
 
 ## Verbal Collaboration
 N/A 
