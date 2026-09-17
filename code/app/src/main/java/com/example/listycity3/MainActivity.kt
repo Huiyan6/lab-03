@@ -30,6 +30,8 @@ class MainActivity : ComponentActivity() {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     CityListScreen(
                         cities = cityRepository.cities,
+                        // using a callback to call a function, is this comical or correct?
+                        onUpdateCity = {city: City -> cityRepository.updateCity(city)},
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
