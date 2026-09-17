@@ -7,11 +7,9 @@
 
 ## References and Resources
 
-N/A
+https://ualberta-cmput301.github.io/labs/slides/2026-Lab-3-Slides.pdf 
+http://ualberta-cmput301.github.io/labs/slides/2026-Lab-3-instructions.pdf 
+https://ualberta-cmput301.github.io/labs/lab3_inst.html
 
 ## Verbal Collaboration
-
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A 
